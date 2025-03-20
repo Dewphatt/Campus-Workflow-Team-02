@@ -35,21 +35,14 @@
             "id": "b137f210efaad708",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tasks/Project Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Reports/2025-03-20_library-summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Project Board"
+              "icon": "lucide-file",
+              "title": "2025-03-20_library-summary"
             }
           }
         ],
@@ -126,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Project Board.md",
+                "file": "Reports/2025-03-20_library-summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Project Board"
+              "title": "Backlinks for 2025-03-20_library-summary"
             }
           },
           {
@@ -145,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Project Board.md",
+                "file": "Reports/2025-03-20_library-summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Project Board"
+              "title": "Outgoing links from 2025-03-20_library-summary"
             }
           },
           {
@@ -174,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Project Board.md",
+                "file": "Reports/2025-03-20_library-summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Board"
+              "title": "Outline of 2025-03-20_library-summary"
             }
           },
           {
@@ -215,13 +208,13 @@
   },
   "active": "b137f210efaad708",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Reports/2025-03-20_library-summary.md",
     "Reports/พัธดล (การท่องเที่ยวรูปแบบใหม่ โลกใหม่ของการท่องเที่ยว).md",
     "Tasks/Project Board.md",
     "2025-03-20.md",
     "README.md",
     "Excalidraw/Drawing 2025-03-20 12.30.38.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "Templates/Untitled.md",
     "Excalidraw",
