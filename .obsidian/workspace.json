@@ -27,7 +27,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Templates/Project Board.md",
+                "file": "Tasks/Project Board.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -60,25 +60,18 @@
             "id": "62f815698716ea1f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tasks/Project Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Reports/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Project Board"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,13 +200,23 @@
               "icon": "lucide-list",
               "title": "Outline of Project Board"
             }
+          },
+          {
+            "id": "75b72cf9633590e9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,16 +231,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "62f815698716ea1f",
+  "active": "1aa97dcdc56ab17f",
   "lastOpenFiles": [
-    "Templates/Untitled.md",
+    "Excalidraw/Drawing 2025-03-20 12.30.38.excalidraw.md",
     "Tasks/Project Board.md",
-    "Team-02-Workflow/Untitled.md",
+    "Excalidraw",
     "Reports/Untitled.md",
+    "README.md",
+    "Templates/Untitled.md",
+    "Team-02-Workflow/Untitled.md",
     "Team-02-Workflow/Tasks/Untitled.md",
     "Team-02-Workflow/Reports/Untitled.md",
     "Untitled",
-    "README.md",
     "Templates",
     "Reports",
     "Tasks",
