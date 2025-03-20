@@ -1,38 +1,38 @@
 {
   "main": {
-    "id": "7f99289a84d9c87b",
+    "id": "775023ae0487d5ec",
     "type": "split",
     "children": [
       {
-        "id": "111df05af189e618",
+        "id": "be99bbb03fdfbb96",
         "type": "tabs",
         "children": [
           {
-            "id": "c782d25e782356ca",
+            "id": "9f4366feaa541f4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ยังไม่ได้ตั้งชื่อ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ยังไม่ได้ตั้งชื่อ"
             }
           },
           {
-            "id": "b6f133060ff86400",
+            "id": "b4bb67318c198987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ยังไม่ได้ตั้งชื่อ 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ยังไม่ได้ตั้งชื่อ 1"
             }
           }
         ],
@@ -42,15 +42,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "af4b52c249d9a158",
+    "id": "729272e9df4850ff",
     "type": "split",
     "children": [
       {
-        "id": "078d527b8d68e538",
+        "id": "f206972ab60aa049",
         "type": "tabs",
         "children": [
           {
-            "id": "7567a2e2f1cca270",
+            "id": "477872ce99c7de3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,11 +59,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
-            "id": "4729ac26db1ff898",
+            "id": "18e10fd09700feb2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,11 +76,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "ค้นหา"
             }
           },
           {
-            "id": "e1d3068a487df134",
+            "id": "57764bfcd9b56ec8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "2b426e27c89771b1",
+    "id": "097a800579a18489",
     "type": "split",
     "children": [
       {
-        "id": "36b55c9f711707d7",
+        "id": "9e4608d568bccc1a",
         "type": "tabs",
         "children": [
           {
-            "id": "8857ec7ad26ea7a7",
+            "id": "eb61e9022739a50c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ยังไม่ได้ตั้งชื่อ 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "แบ็คลิงค์ของ ยังไม่ได้ตั้งชื่อ 1"
             }
           },
           {
-            "id": "0afe9e6b9861f873",
+            "id": "377b351bb32d0769",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ยังไม่ได้ตั้งชื่อ 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "ลิงค์ขาออกของ ยังไม่ได้ตั้งชื่อ 1"
             }
           },
           {
-            "id": "e330fb4488d2478a",
+            "id": "6db8a46b982850cc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,79 +152,41 @@
             }
           },
           {
-            "id": "3b9d0ebc86b008a7",
+            "id": "7254eb7041591385",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "ยังไม่ได้ตั้งชื่อ 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "cae799c97b674932",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "โครงเรื่องของ ยังไม่ได้ตั้งชื่อ 1"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false
     }
   },
-  "active": "b6f133060ff86400",
+  "active": "b4bb67318c198987",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "README.md",
-    "Reports/2025-03-20_ไกลสุดหล้าขอบฟ้ากว้าง.md",
-    "Reports/2025-03-20_มีชีวิตราบรื่นยิ่งขึ้น หยุดพยายามมากเกินไป 47 คำแนะนำเพื่อให้เราเลิกทำอะไรเกินตัว.md",
-    "Reports/2025-03-20_มหาสมุทรของโกดี.md",
-    "Reports/2025-03-20_การท่องเที่ยวรูปแบบใหม่ โลกใหม่ของการท่องเที่ยว.md",
-    "Campus/ยังไม่ได้ตั้งชื่อ.md",
-    "Campus/ยังไม่ได้ตั้งชื่อ 1.md",
-    "Campus",
-    "Reports/พัธดล (การท่องเที่ยวรูปแบบใหม่ โลกใหม่ของการท่องเที่ยว).md",
-    "Excalidraw/Drawing 2025-03-20 12.30.38.excalidraw.md",
-    "Tasks/Project Board.md",
-    "Reports/2025-03-20_library-summary.md",
-    "Untitled Kanban.md",
-    "Templates/Untitled.md",
-    "Excalidraw",
-    "Tasks/Untitled.md",
-    "Templates/Project Board.md",
-    "Excalidraw/Drawing 2025-03-20 12.21.51.excalidraw.md",
-    "Team-02-Workflow/Untitled.md",
-    "Team-02-Workflow/Tasks/Untitled.md",
-    "Team-02-Workflow/Reports/Untitled.md",
-    "Untitled",
-    "Templates",
-    "Reports",
-    "Tasks",
-    "Team-02-Workflow",
-    "Team-02-Workflow"
+    "ยังไม่ได้ตั้งชื่อ.md",
+    "ยังไม่ได้ตั้งชื่อ 1.md",
+    "Welcome.md"
   ]
 }
