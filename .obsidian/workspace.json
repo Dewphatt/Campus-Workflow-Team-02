@@ -20,8 +20,30 @@
               "icon": "lucide-file",
               "title": "2025-03-20_มีชีวิตราบรื่นยิ่งขึ้น หยุดพยายามมากเกินไป 47 คำแนะนำเพื่อให้เราเลิกทำอะไรเกินตัว"
             }
+          },
+          {
+            "id": "65b32675b1e479bc",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tasks/Project Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Project Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +66,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -170,28 +192,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c782d25e782356ca",
+  "active": "65b32675b1e479bc",
   "lastOpenFiles": [
-    "Reports/2025-03-20_มหาสมุทรของโกดี.md",
+    "README.md",
     "Reports/2025-03-20_การท่องเที่ยวรูปแบบใหม่ โลกใหม่ของการท่องเที่ยว.md",
+    "Reports/2025-03-20_ไกลสุดหล้าขอบฟ้ากว้าง.md",
+    "Reports/2025-03-20_มหาสมุทรของโกดี.md",
     "Reports/2025-03-20_มีชีวิตราบรื่นยิ่งขึ้น หยุดพยายามมากเกินไป 47 คำแนะนำเพื่อให้เราเลิกทำอะไรเกินตัว.md",
     "Tasks/Project Board.md",
     "Templates/Untitled.md",
-    "README.md",
+    "Excalidraw/Drawing 2025-03-20 12.30.38.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "2025-03-20.md",
-    "Excalidraw/Drawing 2025-03-20 12.30.38.excalidraw.md",
     "Untitled Kanban.md",
     "Excalidraw",
     "Tasks/Untitled.md",
