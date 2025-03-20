@@ -11,21 +11,14 @@
             "id": "c782d25e782356ca",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tasks/Project Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Reports/2025-03-20_.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Project Board"
+              "icon": "lucide-file",
+              "title": "2025-03-20_"
             }
           }
         ]
@@ -190,21 +183,22 @@
   },
   "active": "c782d25e782356ca",
   "lastOpenFiles": [
+    "Tasks/Project Board.md",
+    "Reports/2025-03-20_.md",
+    "Reports/2025-03-20_มีชีวิตราบรื่นยิ่งขึ้น หยุดพยายามมากเกินไป 47 คำแนะนำเพื่อให้เราเลิกทำอะไรเกินตัว.md",
+    "Reports/2025-03-20_มหาสมุทรของโกดี.md",
+    "Reports/2025-03-20_การท่องเที่ยวรูปแบบใหม่ โลกใหม่ของการท่องเที่ยว.md",
+    "Templates/Untitled.md",
+    "Reports/2025-03-20_ไกลสุดหล้าขอบฟ้ากว้าง.md",
     "Campus/ยังไม่ได้ตั้งชื่อ.md",
     "Campus/ยังไม่ได้ตั้งชื่อ 1.md",
-    "Reports/2025-03-20_การท่องเที่ยวรูปแบบใหม่ โลกใหม่ของการท่องเที่ยว.md",
-    "Reports/2025-03-20_ไกลสุดหล้าขอบฟ้ากว้าง.md",
-    "Reports/2025-03-20_มหาสมุทรของโกดี.md",
-    "Reports/2025-03-20_มีชีวิตราบรื่นยิ่งขึ้น หยุดพยายามมากเกินไป 47 คำแนะนำเพื่อให้เราเลิกทำอะไรเกินตัว.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Campus",
     "Reports/พัธดล (การท่องเที่ยวรูปแบบใหม่ โลกใหม่ของการท่องเที่ยว).md",
     "Excalidraw/Drawing 2025-03-20 12.30.38.excalidraw.md",
-    "Tasks/Project Board.md",
     "Reports/2025-03-20_library-summary.md",
     "Untitled Kanban.md",
-    "Templates/Untitled.md",
     "Excalidraw",
     "Tasks/Untitled.md",
     "Templates/Project Board.md",
