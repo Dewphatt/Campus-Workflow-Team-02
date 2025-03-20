@@ -27,7 +27,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Team-02-Workflow/Templates/Project Board.md",
+                "file": "Templates/Project Board.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -193,14 +193,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1aa97dcdc56ab17f",
+  "active": "7567a2e2f1cca270",
   "lastOpenFiles": [
+    "Team-02-Workflow/Tasks/Untitled.md",
     "Untitled.md",
-    "Team-02-Workflow/Templates/Project Board.md",
+    "Team-02-Workflow/Reports/Untitled.md",
+    "Templates/Project Board.md",
+    "Untitled",
     "README.md",
-    "Team-02-Workflow/Templates",
-    "Team-02-Workflow/Reports",
-    "Team-02-Workflow/Tasks",
+    "Templates",
+    "Reports",
+    "Tasks",
     "Team-02-Workflow",
     "Team-02-Workflow"
   ]
