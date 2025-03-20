@@ -27,10 +27,11 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Team-02-Workflow/Untitled Kanban.md",
+                "file": "Project Board.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false,
                     false,
                     false
@@ -38,7 +39,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Project Board"
             }
           }
         ],
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team-02-Workflow/Untitled Kanban.md",
+                "file": "Project Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled Kanban"
+              "title": "Backlinks for Project Board"
             }
           },
           {
@@ -134,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Team-02-Workflow/Untitled Kanban.md",
+                "file": "Project Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled Kanban"
+              "title": "Outgoing links from Project Board"
             }
           },
           {
@@ -163,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Team-02-Workflow/Untitled Kanban.md",
+                "file": "Project Board.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled Kanban"
+              "title": "Outline of Project Board"
             }
           }
         ]
@@ -195,7 +196,7 @@
   "active": "1aa97dcdc56ab17f",
   "lastOpenFiles": [
     "README.md",
-    "Team-02-Workflow/Untitled Kanban.md",
+    "Project Board.md",
     "Project Board.md",
     "Team-02-Workflow"
   ]
