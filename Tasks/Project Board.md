@@ -6,19 +6,19 @@ kanban-plugin: board
 
 ## To Do
 
-- [ ] ทำ template (ต้นหนาว)
-- [ ] จัดการ core plugin (ต้นหนาว)
-- [ ] insert template (ต้นหนาว)
-- [ ] install plugin Auto template (ต้นหนาว)
 
 
 ## In Progress
 
-- [ ] เขียนสรุปหนังสือสั้นๆ 200 คำ (แอ้ก)
 
 
 ## Review
 
+- [ ] เขียนสรุปหนังสือสั้นๆ 200 คำ (แอ้ก)
+- [ ] ทำ template (ต้นหนาว)
+- [ ] insert template (ต้นหนาว)
+- [ ] install plugin Auto template (ต้นหนาว)
+- [ ] จัดการ core plugin (ต้นหนาว)
 
 
 ## Done

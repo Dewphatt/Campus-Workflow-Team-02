@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/templates.md",
+                "file": "Reports/2025-03-26_Campus-Workflow-Team-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "templates"
+              "title": "2025-03-26_Campus-Workflow-Team-02"
             }
           }
         ]
@@ -181,15 +181,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7567a2e2f1cca270",
+  "active": "c782d25e782356ca",
   "lastOpenFiles": [
-    "Reports/2025-03-20_มีชีวิตราบรื่นยิ่งขึ้น หยุดพยายามมากเกินไป 47 คำแนะนำเพื่อให้เราเลิกทำอะไรเกินตัว.md",
-    "Reports/2025-03-20_มหาสมุทรของโกดี.md",
-    "Reports/2025-03-20_จงเป็นดั่งทานตะวันที่หันหาเพียงแสงอาทิตย์เสมอ.md",
-    "Reports/2025-03-20_ไกลสุดหล้าขอบฟ้ากว้าง.md",
-    "Reports/2025-03-20_การท่องเที่ยวรูปแบบใหม่ โลกใหม่ของการท่องเที่ยว.md",
-    "Templates/templates.md",
     "Tasks/Project Board.md",
+    "Templates/templates.md",
+    "Reports/2025-03-26_Campus-Workflow-Team-02.md",
+    "Reports/2025-03-20_มีชีวิตราบรื่นยิ่งขึ้น หยุดพยายามมากเกินไป 47 คำแนะนำเพื่อให้เราเลิกทำอะไรเกินตัว.md",
+    "Reports/2025-03-20_การท่องเที่ยวรูปแบบใหม่ โลกใหม่ของการท่องเที่ยว.md",
+    "Reports/2025-03-20_ไกลสุดหล้าขอบฟ้ากว้าง.md",
+    "Reports/2025-03-20_จงเป็นดั่งทานตะวันที่หันหาเพียงแสงอาทิตย์เสมอ.md",
+    "Reports/2025-03-20_มหาสมุทรของโกดี.md",
     "Reports/2025-03-20_.md",
     "Campus/ยังไม่ได้ตั้งชื่อ.md",
     "Campus/ยังไม่ได้ตั้งชื่อ 1.md",
